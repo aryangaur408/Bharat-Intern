@@ -31,6 +31,9 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-For any questions or inquiries, you can reach me at your.email@example.com or connect with me on LinkedIn [here](link-to-linkedin-profile) (replace "link-to-linkedin-profile" with your LinkedIn profile URL).
+For any questions or inquiries, you can reach me out: 
+- Name- [Aryan Singh Gaur](https://prtfoilo.netlify.app/)
+- Email- aryangaur408@gmail.com
+- LinkedIn- https://www.linkedin.com/in/aryan-singh-gaur-91a539237.
 
 Thank you for visiting my repository! I hope you find the tasks interesting and informative.
