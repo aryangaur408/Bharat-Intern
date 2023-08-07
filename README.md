@@ -3,18 +3,18 @@
 
 Welcome to my GitHub repository! This project consists of two tasks:
 
-## Task 1: Image Recognition of MNIST Dataset
+## Task 1: Handwritten Digit Recognition using MNIST Dataset
 
-In this task, I have implemented an image recognition model using deep learning techniques to classify handwritten digits from the MNIST dataset. The model is built using Python, TensorFlow, and Keras. The code and detailed documentation can be found in the `mnist_image_recognition` directory.
+In this task, I have implemented an image recognition model using deep learning techniques to classify handwritten digits from the MNIST dataset. The model is built using Python, TensorFlow, and Keras. The code and detailed documentation can be found in the `Task 1` directory.
 
 ## Task 2: Stock Prediction using LSTM Model
 
-For the second task, I have developed a stock prediction model using Long Short-Term Memory (LSTM) neural networks. The model is trained on historical stock market data to predict future prices. The implementation uses Python, TensorFlow, and Pandas. The code and documentation can be found in the `stock_prediction_lstm` directory.
+For the second task, I have developed a stock prediction model using Long Short-Term Memory (LSTM) neural networks. The model is trained on historical stock market data Amazon company to predict future prices. The implementation uses Python, TensorFlow, and Pandas. The code and documentation can be found in the `Task 2` directory.
 
 ## Directory Structure
 
-- `mnist_image_recognition`: Contains code and documentation for the image recognition task.
-- `stock_prediction_lstm`: Contains code and documentation for the stock prediction task.
+- `Task 1`: Contains code and documentation for the handwritten digit recognition task.
+- `Task 2`: Contains code and documentation for the stock prediction task.
 - `data`: Holds any necessary datasets used for training and testing.
 
 ## Installation and Usage
