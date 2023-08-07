@@ -32,7 +32,7 @@ This project is licensed under the [MIT License](LICENSE).
 ## Contact
 
 For any questions or inquiries, you can reach me out: 
-- Name- [Aryan Singh Gaur](https://prtfoilo.netlify.app/)
+- Name- [Aryan Singh Gaur](https://aryangaur.netlify.app/)
 - Email- aryangaur408@gmail.com
 - LinkedIn- https://www.linkedin.com/in/aryan-singh-gaur-91a539237.
 
