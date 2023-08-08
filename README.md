@@ -15,7 +15,7 @@ For the second task, I have developed a stock prediction model using Long Short-
 
 - `Task 1`: Contains code and documentation for the handwritten digit recognition task.
 - `Task 2`: Contains code and documentation for the stock prediction task.
-- `data`: Holds any necessary datasets used for training and testing.
+- `Data`: Holds any necessary datasets used for training and testing.
 
 ## Installation and Usage
 
