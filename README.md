@@ -3,6 +3,16 @@
 
 Welcome to my GitHub repository! This project consists of two tasks:
 
+## Table of Contents
+
+- [Task 1](#task1)
+- [Task 2](#task2)
+- [Directory Structure](#directorystructure)
+- [Installation and Usage](#installationandusage)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
+
 ## Task 1: Handwritten Digit Recognition using MNIST Dataset
 
 In this task, I have implemented an image recognition model using deep learning techniques to classify handwritten digits from the MNIST dataset. The model is built using Python, TensorFlow, and Keras. The code and detailed documentation can be found in the `Task 1` directory.
